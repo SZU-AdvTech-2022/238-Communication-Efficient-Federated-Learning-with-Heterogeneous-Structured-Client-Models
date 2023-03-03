@@ -1,0 +1,8 @@
+@ARTICLE{9911782,
+author={Hu, Yao and Sun, Xiaoyan and Tian, Ye and Song, Linqi and Tan, Kay Chen},
+journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+title={Communication Efficient Federated Learning with Heterogeneous Structured Client Models}, 
+year={2022},
+volume={},
+number={},
+pages={1-15}}
